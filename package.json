@@ -1,0 +1,16 @@
+{
+  "name": "show",
+  "version": "1.0.0",
+  "description": "express_learning",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neha Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "file:node_modules/body-parser",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
